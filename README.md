@@ -15,18 +15,25 @@
   </a>
 </h4>
 
-## Introduction
+## Introduccion
 ¡Bienvenido a fvcoder-Learn! Aquí encontrará una colección de cursos, guías y ejercicios que le ayudarán a mejorar sus habilidades de codificación. Ya sea que sea un principiante que busca comenzar o un desarrollador experimentado que busca profundizar sus conocimientos, tenemos algo para todos.
 
-### License
-Este repositorio tiene la licencia MIT - Consulte el archivo [LICENSE](./LICENSE) para obtener más detalles..
-
-### Contributing
-¡Agradecemos las contribuciones de la comunidad! Si tiene un curso, guía o práctica que le gustaría compartir, o si encuentra algún problema o mejora, no dude en abrir una pull-request o enviar un issue.
-### How to Use
-
+### Como lo uso?
 - **Explora el Perfil**: [`fvcoder-learn repositories`](https://github.com/fvcoder-learn?tab=repositories)
 - **Explora la web**: [`fvcoder.com/cursos`](https://fvcoder.com/cursos)
+
+### Contenido
+| Tema | Nivel | Repo |
+|---|---|---|
+| Fundamentos | Basico | (Aun no lo cree) |
+
+### Licencia
+Este repositorio tiene la licencia MIT - Consulte el archivo [LICENSE](./LICENSE) para obtener más detalles..
+
+### Contribuye
+¡Agradecemos las contribuciones de la comunidad! Si tiene un curso, guía o práctica que le gustaría compartir, o si encuentra algún problema o mejora, no dude en abrir una pull-request o enviar un issue.
+
+
 
 ### Feedback
 ¡Valoramos sus comentarios! Si tiene alguna sugerencia para contenido nuevo o mejoras al material existente, no dude en hacérnoslo saber abriendo un problema o contácteme en [X (twitter)](https://twitter.com/fvcoder1).
