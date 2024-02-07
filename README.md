@@ -8,8 +8,7 @@
 </h1>
 <h4 align="center">
   <a href="https://opensource.org/license/mit">
-    <img src="https://img.shields.io/github/license/fvcoder-learn/fvcoder-learn
-?style=flat-square" alt="license" style="height: 20px;">
+    <img src="https://img.shields.io/github/license/fvcoder-learn/fvcoder-learn?style=flat-square" alt="license" style="height: 20px;">
   </a>
   <a href="https://twitter.com/fvcoder1">
     <img src="https://img.shields.io/twitter/follow/fvcoder1?style=social" alt="twitter" style="height: 20px;">
